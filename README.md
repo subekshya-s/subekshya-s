@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✦ Subeksha Subedi ✦
+# ✦ Subekshya Subedi ✦
 
 **GIS & Geomatics Engineer · Spatial Data Scientist · Backend Developer**
 
